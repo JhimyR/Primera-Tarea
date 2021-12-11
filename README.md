@@ -33,10 +33,29 @@ cat n1.txt
 # 2.[Advanced]
 Write a script that prints the numbers of rows and columns for each network: 
 
+12 lines (10 sloc)  577 Bytes
+
 $ bash netsize_all.sh
 ../data/Saavedra2013/n10.txt 14 20
 
 ../data/Saavedra2013/n11.txt 270 91
 ../data/Saavedra2013/n12.txt 7 72
 ../data/Saavedra2013/n13.txt 61 17
-...
+...  
+---------------------------------------------------------------------------------------------------------------------------------------------------
+#2.Ejercicio 1.10.3 [Advanced] Part 2
+
+ Esta parte del ejercicio esta especificado en el README.md
+ - Ahora elegimos las misma ruta del repositorio anterior
+ Corremos la información con el siguiente 
+ cd Saavedra2013
+ #Ahora en esta parte ejecutaremos el siguiente codigo en git bush que nos proporcionó las diapositivas de las clases.
+ Es esta parte utilizaremos el for , do , done
+ for file in $(ls *.txt); do wc -l $file; head -n1 $file | grep -o " " | wc -l; done
+ 
+#Para finalizar obtendremos los resultados en la parte de netsize_all.txt con archivos de n59.txt
+
+## Los resultados se encuentran en la carpeta netsize_all.txt
+
+##:+1:
+

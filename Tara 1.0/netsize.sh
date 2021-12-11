@@ -5,3 +5,4 @@ cat n1.txt
 Ahora con cd ../../ esto me permitira regresar al repositorio incial o la carpeta que decees modificar
 r y p son los archivos donde vamos a iniciar nuestro comando for y despues especificando la carpeta que necesitamos con 
 cd ../../
+for r in ../Saavedra2013/*.txt; do cat $r | wc -l; done 

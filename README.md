@@ -35,13 +35,13 @@ Write a script that prints the numbers of rows and columns for each network:
 
 12 lines (10 sloc)  577 Bytes
 
-$ bash netsize_all.sh
+   bash netsize_all.sh
 ../data/Saavedra2013/n10.txt 14 20
 ../data/Saavedra2013/n11.txt 270 91
 ../data/Saavedra2013/n12.txt 7 72
 ../data/Saavedra2013/n13.txt 61 17
 ...  
----------------------------------------------------------------------------------------------------------------------------------------------------
+
 #2.Ejercicio 1.10.3 [Advanced] Part 2
 
  Esta parte del ejercicio esta especificado en el README.md

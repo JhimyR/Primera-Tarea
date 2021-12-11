@@ -4,6 +4,7 @@
  Corremos la información con el siguiente 
  cd Saavedra2013
  #Ahora en esta parte ejecutamos el siguiente codigo en git bush que nos proporciono las diapositivas de las clases.
- Es esta parte utilizaremos el for, do , done
+ Es esta parte utilizaremos el for , do , done
+ for file in $(ls *.txt); do wc -l $file; head -n1 $file | grep -o " " | wc -l; done
  
  

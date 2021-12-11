@@ -1,3 +1,5 @@
-#2.Ejercicio 1.10.3 [Advanced] Parte 2
- - Write a script that prints the numbers of rows and columns for each network:
-
+#2.Ejercicio 1.10.3 [Advanced] Part 2
+ Esta parte del ejercicio esta especificado en el README.md
+ - Ahora elegimos las misma ruta del repositorio anterior
+  
+ 

@@ -3,5 +3,6 @@
  - Ahora elegimos las misma ruta del repositorio anterior
  Corremos la información con el siguiente 
  cd Saavedra2013
+ #Ahora en esta parte ejecutamos el siguiente codigo en git bush que nos proporciono las diapositivas de las clases.
  
  

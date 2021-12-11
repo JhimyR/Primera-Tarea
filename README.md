@@ -12,8 +12,10 @@ $ bash netsize.sh ../data/Saavedra2013/n1.txt
 Filename: ../data/Saavedra2013/n1.txt
 Number of rows: 97
 Number of columns: 80
+
 #PARA PODER REALIZAR EL EJERCICIO Parte 1
- 1.- Necesitamos ubicarnos en el Git bash, de preferencia el programa que mas facil te resulte.
+
+1.- Necesitamos ubicarnos en el Git bash, de preferencia el programa que mas facil te resulte.
  2.- Necesitamos ubicar la ruta:
      cd Documents/Ikiam_2021data/CSB/unix/Saavedra2013
 #Después de ubicar el directorio y la ruta.
